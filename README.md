@@ -1,3 +1,7 @@
-# Elderly-Poverty-Index-Development<br>
+# Elderly Poverty Index Development<br>
 <br>
-data analysis team project
+- The Development of a Senior Poverty Disparity Index in Seoul<br>
+- A project that analyzes data based on acquired result to propose solutions<br>
+- Quantifying data to assess the level of elderly poverty in Seoul<br>
+- The final project for Data Analysis Specialized Course<br>
+- Successful prediction of news coverage<br>
